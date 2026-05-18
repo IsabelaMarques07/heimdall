@@ -18,6 +18,28 @@ Beyond transcription, Heimdall includes an **intelligent formatter**: after capt
 
 ---
 
+## Screenshots
+
+**Transcribing a video in real time**
+
+<p align="center">
+  <img src="image1.png" alt="Heimdall transcribing a video" width="700"/>
+</p>
+
+**Formatting the transcription into Markdown**
+
+<p align="center">
+  <img src="image2.png" alt="Heimdall formatting the transcription" width="700"/>
+</p>
+
+**Formatting complete**
+
+<p align="center">
+  <img src="image3.png" alt="Formatting complete" width="700"/>
+</p>
+
+---
+
 ## What it's for
 
 - **Study more efficiently** — watch classes and videos knowing the content will be saved as searchable text
